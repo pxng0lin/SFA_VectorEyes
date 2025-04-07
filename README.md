@@ -198,6 +198,6 @@ uv run copy_templates.py
 
 ## Acknowledgments
 
-- Developed by [pxng0lin/The Cogent]
+- Developed by [pxng0lin/Th≡ Cxg≡
 - Enhanced with secure API key management for improved security
 - Leveraging cutting-edge LLM technology for vulnerability analysis
