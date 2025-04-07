@@ -1,6 +1,6 @@
 # SFA VectorEyes
 
-![VectorEyes Logo](vectoreyes_logo.png)
+![VectorEyes Logo](vectoreyes_logo.jpg)
 
 ## Overview
 
