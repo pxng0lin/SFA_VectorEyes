@@ -198,6 +198,6 @@ uv run copy_templates.py
 
 ## Acknowledgments
 
-- Developed by [pxng0lin/ThΞ CxgΞ
+- Developed by pxng0lin/ThΞ CxgΞ
 - Enhanced with secure API key management for improved security
 - Leveraging cutting-edge LLM technology for vulnerability analysis
